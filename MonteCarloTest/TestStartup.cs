@@ -9,6 +9,7 @@ namespace MonteCaloTest
         public void TestStartup()
         {
             //Verify that the first message Hello World is changed to "Hello!!!"
+            //Is the GitHub Repos set up for two machineds now?
         }
     }
 }
